@@ -1,0 +1,173 @@
+{
+  "app": {
+    "name": "글로벌 쇼핑몰",
+    "tagline": "당신의 글로벌 쇼핑 목적지"
+  },
+  "nav": {
+    "home": "홈",
+    "products": "상품",
+    "categories": "카테고리",
+    "cart": "장바구니",
+    "favorites": "찜목록",
+    "orders": "주문",
+    "profile": "마이페이지",
+    "seller": "판매자 센터",
+    "login": "로그인",
+    "register": "회원가입",
+    "logout": "로그아웃",
+    "search": "상품 검색..."
+  },
+  "auth": {
+    "login": "로그인",
+    "register": "회원가입",
+    "email": "이메일",
+    "password": "비밀번호",
+    "confirmPassword": "비밀번호 확인",
+    "name": "이름",
+    "phone": "전화번호",
+    "address": "주소",
+    "role": {
+      "label": "나는",
+      "buyer": "상품 구매",
+      "seller": "상품 판매"
+    },
+    "forgotPassword": "비밀번호 찾기",
+    "noAccount": "계정이 없으신가요?",
+    "hasAccount": "이미 계정이 있으신가요?",
+    "loginSuccess": "로그인 성공!",
+    "registerSuccess": "회원가입 성공!",
+    "logoutSuccess": "로그아웃 성공!",
+    "invalidCredentials": "이메일 또는 비밀번호가 잘못되었습니다",
+    "emailExists": "이미 등록된 이메일입니다"
+  },
+  "product": {
+    "title": "상품",
+    "add": "상품 추가",
+    "edit": "상품 수정",
+    "delete": "상품 삭제",
+    "name": "상품명",
+    "description": "상품 설명",
+    "price": "가격",
+    "originalPrice": "원래 가격",
+    "stock": "재고",
+    "category": "카테고리",
+    "images": "이미지",
+    "status": {
+      "active": "판매중",
+      "inactive": "판매중지",
+      "soldOut": "품절"
+    },
+    "addToCart": "장바구니 담기",
+    "buyNow": "바로 구매",
+    "addToFavorites": "찜하기",
+    "removeFromFavorites": "찜 해제",
+    "inStock": "재고 있음",
+    "outOfStock": "품절",
+    "quantity": "수량",
+    "seller": "판매자",
+    "viewDetails": "상세 보기",
+    "featured": "추천",
+    "new": "신상품",
+    "reviews": "리뷰",
+    "related": "관련 상품"
+  },
+  "cart": {
+    "title": "장바구니",
+    "empty": "장바구니가 비어있습니다",
+    "continueShopping": "쇼핑 계속하기",
+    "subtotal": "소계",
+    "shipping": "배송비",
+    "total": "합계",
+    "checkout": "결제하기",
+    "remove": "삭제",
+    "update": "수정",
+    "clear": "장바구니 비우기",
+    "itemAdded": "장바구니에 추가되었습니다",
+    "itemRemoved": "장바구니에서 삭제되었습니다"
+  },
+  "favorites": {
+    "title": "내 찜목록",
+    "empty": "찜한 상품이 없습니다",
+    "addToCart": "장바구니 담기",
+    "remove": "삭제"
+  },
+  "order": {
+    "title": "내 주문",
+    "orderNumber": "주문번호",
+    "date": "주문일",
+    "status": {
+      "pending": "결제대기",
+      "paid": "결제완료",
+      "shipped": "배송중",
+      "delivered": "배송완료",
+      "cancelled": "취소됨",
+      "refunded": "환불됨"
+    },
+    "total": "주문금액",
+    "items": "상품",
+    "shippingAddress": "배송주소",
+    "cancel": "주문 취소",
+    "track": "배송조회",
+    "orderSuccess": "주문이 완료되었습니다!"
+  },
+  "payment": {
+    "title": "결제",
+    "methods": {
+      "visa": "Visa/마스터카드",
+      "wechat": "위챗페이",
+      "alipay": "알리페이",
+      "applepay": "Apple Pay"
+    },
+    "cardNumber": "카드번호",
+    "expiry": "유효기간",
+    "cvv": "보안코드",
+    "pay": "결제하기",
+    "processing": "처리중...",
+    "success": "결제 성공!",
+    "failed": "결제 실패. 다시 시도해주세요."
+  },
+  "seller": {
+    "dashboard": "판매자 대시보드",
+    "products": "내 상품",
+    "orders": "주문 관리",
+    "stats": {
+      "totalProducts": "총 상품",
+      "activeProducts": "판매중 상품",
+      "totalOrders": "총 주문",
+      "totalRevenue": "총 매출"
+    },
+    "addProduct": "새 상품 추가",
+    "editProduct": "상품 수정",
+    "deleteConfirm": "이 상품을 삭제하시겠습니까?"
+  },
+  "common": {
+    "save": "저장",
+    "cancel": "취소",
+    "delete": "삭제",
+    "edit": "수정",
+    "create": "생성",
+    "update": "업데이트",
+    "search": "검색",
+    "filter": "필터",
+    "sort": "정렬",
+    "loading": "로딩중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "confirm": "확인",
+    "close": "닫기",
+    "back": "뒤로",
+    "next": "다음",
+    "submit": "제출",
+    "success": "성공",
+    "warning": "경고",
+    "info": "정보"
+  },
+  "language": {
+    "title": "언어",
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "ru": "Русский"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "app": {
+    "name": "全球购物商城",
+    "tagline": "您的全球购物目的地"
+  },
+  "nav": {
+    "home": "首页",
+    "products": "商品",
+    "categories": "分类",
+    "cart": "购物车",
+    "favorites": "收藏夹",
+    "orders": "订单",
+    "profile": "个人中心",
+    "seller": "卖家中心",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+    "search": "搜索商品..."
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "name": "姓名",
+    "phone": "手机号码",
+    "address": "地址",
+    "role": {
+      "label": "我要",
+      "buyer": "购买商品",
+      "seller": "出售商品"
+    },
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？",
+    "loginSuccess": "登录成功！",
+    "registerSuccess": "注册成功！",
+    "logoutSuccess": "退出登录成功！",
+    "invalidCredentials": "邮箱或密码错误",
+    "emailExists": "该邮箱已被注册"
+  },
+  "product": {
+    "title": "商品",
+    "add": "添加商品",
+    "edit": "编辑商品",
+    "delete": "删除商品",
+    "name": "商品名称",
+    "description": "商品描述",
+    "price": "价格",
+    "originalPrice": "原价",
+    "stock": "库存",
+    "category": "分类",
+    "images": "图片",
+    "status": {
+      "active": "上架",
+      "inactive": "下架",
+      "soldOut": "售罄"
+    },
+    "addToCart": "加入购物车",
+    "buyNow": "立即购买",
+    "addToFavorites": "收藏",
+    "removeFromFavorites": "取消收藏",
+    "inStock": "有货",
+    "outOfStock": "缺货",
+    "quantity": "数量",
+    "seller": "卖家",
+    "viewDetails": "查看详情",
+    "featured": "精选",
+    "new": "新品",
+    "reviews": "评价",
+    "related": "相关商品"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "购物车是空的",
+    "continueShopping": "继续购物",
+    "subtotal": "小计",
+    "shipping": "运费",
+    "total": "总计",
+    "checkout": "去结算",
+    "remove": "删除",
+    "update": "更新",
+    "clear": "清空购物车",
+    "itemAdded": "已添加到购物车",
+    "itemRemoved": "已从购物车移除"
+  },
+  "favorites": {
+    "title": "我的收藏",
+    "empty": "还没有收藏任何商品",
+    "addToCart": "加入购物车",
+    "remove": "移除"
+  },
+  "order": {
+    "title": "我的订单",
+    "orderNumber": "订单号",
+    "date": "下单时间",
+    "status": {
+      "pending": "待付款",
+      "paid": "已付款",
+      "shipped": "已发货",
+      "delivered": "已送达",
+      "cancelled": "已取消",
+      "refunded": "已退款"
+    },
+    "total": "订单金额",
+    "items": "商品",
+    "shippingAddress": "收货地址",
+    "cancel": "取消订单",
+    "track": "查看物流",
+    "orderSuccess": "订单提交成功！"
+  },
+  "payment": {
+    "title": "支付",
+    "methods": {
+      "visa": "Visa/万事达卡",
+      "wechat": "微信支付",
+      "alipay": "支付宝",
+      "applepay": "Apple Pay"
+    },
+    "cardNumber": "卡号",
+    "expiry": "有效期",
+    "cvv": "安全码",
+    "pay": "立即支付",
+    "processing": "处理中...",
+    "success": "支付成功！",
+    "failed": "支付失败，请重试。"
+  },
+  "seller": {
+    "dashboard": "卖家工作台",
+    "products": "我的商品",
+    "orders": "订单管理",
+    "stats": {
+      "totalProducts": "商品总数",
+      "activeProducts": "在售商品",
+      "totalOrders": "订单总数",
+      "totalRevenue": "总销售额"
+    },
+    "addProduct": "添加新商品",
+    "editProduct": "编辑商品",
+    "deleteConfirm": "确定要删除这个商品吗？"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "update": "更新",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "confirm": "确认",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "submit": "提交",
+    "success": "成功",
+    "warning": "警告",
+    "info": "提示"
+  },
+  "language": {
+    "title": "语言",
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "ru": "Русский"
+  }
+}
