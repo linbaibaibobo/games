@@ -1,0 +1,173 @@
+{
+  "app": {
+    "name": "グローバルショップモール",
+    "tagline": "あなたのグローバルショッピング先"
+  },
+  "nav": {
+    "home": "ホーム",
+    "products": "商品",
+    "categories": "カテゴリー",
+    "cart": "カート",
+    "favorites": "お気に入り",
+    "orders": "注文",
+    "profile": "マイページ",
+    "seller": "販売者センター",
+    "login": "ログイン",
+    "register": "新規登録",
+    "logout": "ログアウト",
+    "search": "商品を検索..."
+  },
+  "auth": {
+    "login": "ログイン",
+    "register": "新規登録",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワード確認",
+    "name": "お名前",
+    "phone": "電話番号",
+    "address": "住所",
+    "role": {
+      "label": "ご希望",
+      "buyer": "商品を購入",
+      "seller": "商品を販売"
+    },
+    "forgotPassword": "パスワードを忘れた？",
+    "noAccount": "アカウントをお持ちでない？",
+    "hasAccount": "すでにアカウントをお持ち？",
+    "loginSuccess": "ログインしました！",
+    "registerSuccess": "登録が完了しました！",
+    "logoutSuccess": "ログアウトしました！",
+    "invalidCredentials": "メールアドレスまたはパスワードが正しくありません",
+    "emailExists": "このメールアドレスは既に登録されています"
+  },
+  "product": {
+    "title": "商品",
+    "add": "商品を追加",
+    "edit": "商品を編集",
+    "delete": "商品を削除",
+    "name": "商品名",
+    "description": "商品説明",
+    "price": "価格",
+    "originalPrice": "元の価格",
+    "stock": "在庫",
+    "category": "カテゴリー",
+    "images": "画像",
+    "status": {
+      "active": "販売中",
+      "inactive": "停止中",
+      "soldOut": "売り切れ"
+    },
+    "addToCart": "カートに追加",
+    "buyNow": "今すぐ購入",
+    "addToFavorites": "お気に入りに追加",
+    "removeFromFavorites": "お気に入りから削除",
+    "inStock": "在庫あり",
+    "outOfStock": "在庫切れ",
+    "quantity": "数量",
+    "seller": "販売者",
+    "viewDetails": "詳細を見る",
+    "featured": "おすすめ",
+    "new": "新着",
+    "reviews": "レビュー",
+    "related": "関連商品"
+  },
+  "cart": {
+    "title": "ショッピングカート",
+    "empty": "カートは空です",
+    "continueShopping": "買い物を続ける",
+    "subtotal": "小計",
+    "shipping": "送料",
+    "total": "合計",
+    "checkout": "レジへ進む",
+    "remove": "削除",
+    "update": "更新",
+    "clear": "カートを空にする",
+    "itemAdded": "カートに追加しました",
+    "itemRemoved": "カートから削除しました"
+  },
+  "favorites": {
+    "title": "お気に入り",
+    "empty": "お気に入りの商品はありません",
+    "addToCart": "カートに追加",
+    "remove": "削除"
+  },
+  "order": {
+    "title": "注文履歴",
+    "orderNumber": "注文番号",
+    "date": "注文日",
+    "status": {
+      "pending": "支払い待ち",
+      "paid": "支払い済み",
+      "shipped": "発送済み",
+      "delivered": "配達完了",
+      "cancelled": "キャンセル済み",
+      "refunded": "返金済み"
+    },
+    "total": "注文合計",
+    "items": "商品",
+    "shippingAddress": "配送先住所",
+    "cancel": "注文をキャンセル",
+    "track": "配送状況を確認",
+    "orderSuccess": "注文が完了しました！"
+  },
+  "payment": {
+    "title": "支払い",
+    "methods": {
+      "visa": "Visa/マスターカード",
+      "wechat": "WeChatペイ",
+      "alipay": "アリペイ",
+      "applepay": "Apple Pay"
+    },
+    "cardNumber": "カード番号",
+    "expiry": "有効期限",
+    "cvv": "セキュリティコード",
+    "pay": "今すぐ支払う",
+    "processing": "処理中...",
+    "success": "支払いが完了しました！",
+    "failed": "支払いに失敗しました。もう一度お試しください。"
+  },
+  "seller": {
+    "dashboard": "販売者ダッシュボード",
+    "products": "商品管理",
+    "orders": "注文管理",
+    "stats": {
+      "totalProducts": "商品総数",
+      "activeProducts": "販売中商品",
+      "totalOrders": "注文総数",
+      "totalRevenue": "総売上"
+    },
+    "addProduct": "新規商品を追加",
+    "editProduct": "商品を編集",
+    "deleteConfirm": "この商品を削除してもよろしいですか？"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "create": "作成",
+    "update": "更新",
+    "search": "検索",
+    "filter": "絞り込み",
+    "sort": "並び替え",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "confirm": "確認",
+    "close": "閉じる",
+    "back": "戻る",
+    "next": "次へ",
+    "submit": "送信",
+    "success": "成功",
+    "warning": "警告",
+    "info": "情報"
+  },
+  "language": {
+    "title": "言語",
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "ru": "Русский"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "app": {
+    "name": "Глобальный Торговый Центр",
+    "tagline": "Ваше глобальное место для покупок"
+  },
+  "nav": {
+    "home": "Главная",
+    "products": "Товары",
+    "categories": "Категории",
+    "cart": "Корзина",
+    "favorites": "Избранное",
+    "orders": "Заказы",
+    "profile": "Профиль",
+    "seller": "Центр продавца",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "search": "Поиск товаров..."
+  },
+  "auth": {
+    "login": "Вход",
+    "register": "Регистрация",
+    "email": "Email",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "name": "Полное имя",
+    "phone": "Телефон",
+    "address": "Адрес",
+    "role": {
+      "label": "Я хочу",
+      "buyer": "Покупать товары",
+      "seller": "Продавать товары"
+    },
+    "forgotPassword": "Забыли пароль?",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "loginSuccess": "Вход выполнен успешно!",
+    "registerSuccess": "Регистрация успешна!",
+    "logoutSuccess": "Выход выполнен успешно!",
+    "invalidCredentials": "Неверный email или пароль",
+    "emailExists": "Этот email уже зарегистрирован"
+  },
+  "product": {
+    "title": "Товары",
+    "add": "Добавить товар",
+    "edit": "Редактировать товар",
+    "delete": "Удалить товар",
+    "name": "Название товара",
+    "description": "Описание",
+    "price": "Цена",
+    "originalPrice": "Первоначальная цена",
+    "stock": "Наличие",
+    "category": "Категория",
+    "images": "Изображения",
+    "status": {
+      "active": "Активный",
+      "inactive": "Неактивный",
+      "soldOut": "Распродано"
+    },
+    "addToCart": "В корзину",
+    "buyNow": "Купить сейчас",
+    "addToFavorites": "В избранное",
+    "removeFromFavorites": "Удалить из избранного",
+    "inStock": "В наличии",
+    "outOfStock": "Нет в наличии",
+    "quantity": "Количество",
+    "seller": "Продавец",
+    "viewDetails": "Подробнее",
+    "featured": "Рекомендуем",
+    "new": "Новинка",
+    "reviews": "Отзывы",
+    "related": "Похожие товары"
+  },
+  "cart": {
+    "title": "Корзина",
+    "empty": "Корзина пуста",
+    "continueShopping": "Продолжить покупки",
+    "subtotal": "Промежуточный итог",
+    "shipping": "Доставка",
+    "total": "Итого",
+    "checkout": "Оформить заказ",
+    "remove": "Удалить",
+    "update": "Обновить",
+    "clear": "Очистить корзину",
+    "itemAdded": "Товар добавлен в корзину",
+    "itemRemoved": "Товар удален из корзины"
+  },
+  "favorites": {
+    "title": "Мое избранное",
+    "empty": "В избранном пока ничего нет",
+    "addToCart": "В корзину",
+    "remove": "Удалить"
+  },
+  "order": {
+    "title": "Мои заказы",
+    "orderNumber": "Заказ №",
+    "date": "Дата заказа",
+    "status": {
+      "pending": "Ожидает оплаты",
+      "paid": "Оплачен",
+      "shipped": "Отправлен",
+      "delivered": "Доставлен",
+      "cancelled": "Отменен",
+      "refunded": "Возвращен"
+    },
+    "total": "Сумма заказа",
+    "items": "Товары",
+    "shippingAddress": "Адрес доставки",
+    "cancel": "Отменить заказ",
+    "track": "Отследить заказ",
+    "orderSuccess": "Заказ успешно оформлен!"
+  },
+  "payment": {
+    "title": "Оплата",
+    "methods": {
+      "visa": "Visa/Mastercard",
+      "wechat": "WeChat Pay",
+      "alipay": "Alipay",
+      "applepay": "Apple Pay"
+    },
+    "cardNumber": "Номер карты",
+    "expiry": "Срок действия",
+    "cvv": "CVV код",
+    "pay": "Оплатить сейчас",
+    "processing": "Обработка...",
+    "success": "Оплата успешна!",
+    "failed": "Оплата не удалась. Попробуйте снова."
+  },
+  "seller": {
+    "dashboard": "Панель продавца",
+    "products": "Мои товары",
+    "orders": "Управление заказами",
+    "stats": {
+      "totalProducts": "Всего товаров",
+      "activeProducts": "Активных товаров",
+      "totalOrders": "Всего заказов",
+      "totalRevenue": "Общая выручка"
+    },
+    "addProduct": "Добавить новый товар",
+    "editProduct": "Редактировать товар",
+    "deleteConfirm": "Вы уверены, что хотите удалить этот товар?"
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "create": "Создать",
+    "update": "Обновить",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "sort": "Сортировка",
+    "loading": "Загрузка...",
+    "error": "Что-то пошло не так",
+    "retry": "Повторить",
+    "confirm": "Подтвердить",
+    "close": "Закрыть",
+    "back": "Назад",
+    "next": "Далее",
+    "submit": "Отправить",
+    "success": "Успех",
+    "warning": "Предупреждение",
+    "info": "Информация"
+  },
+  "language": {
+    "title": "Язык",
+    "en": "English",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "ru": "Русский"
+  }
+}
